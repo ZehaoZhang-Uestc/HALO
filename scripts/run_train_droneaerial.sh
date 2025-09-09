@@ -1,0 +1,1 @@
+python train_HALO_sample.py --emb_size 512 --img_size 1024 --max_epoch 25 --data_root ~/Desktop/CVOGL --data_name CVOGL_DroneAerial --beta 1.0 --savename model_droneaerial --gpu 0 --batch_size 16 --num_workers 24 --print_freq 50 > logs/train_droneaerial.log 2>&1
