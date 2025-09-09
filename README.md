@@ -10,6 +10,7 @@ CVOGL is a dataset that comprises ground-view images, drone aerial-view images, 
 
 The download link is  [CVOGL](https://drive.google.com/file/d/1WCwnK_rrU--ZOIQtmaKdR0TXcmtzU4cf/view?usp=sharing) 
 
+The nighttime query datasets download link is  [Dark_CVOGL](https://pan.baidu.com/s/16J4VDe7pYJfVYJ9Z-V_jxQ?pwd=c4e3) code:c4e3 
 
 # Train
 
